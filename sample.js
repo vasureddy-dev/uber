@@ -1,4 +1,5 @@
-const x = "srinivasu"
+function x (){
+    console.log("vasu")
+}
 
-
-console.log(x)
+x()
